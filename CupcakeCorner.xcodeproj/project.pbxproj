@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CD9EFA3F2C4834B5004A6EAB /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD9EFA3E2C4834B5004A6EAB /* CheckoutView.swift */; };
 		CDC5D4952C46E13D0093CAF8 /* CupcakeCornerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDC5D4942C46E13D0093CAF8 /* CupcakeCornerApp.swift */; };
 		CDC5D4972C46E13D0093CAF8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDC5D4962C46E13D0093CAF8 /* ContentView.swift */; };
 		CDC5D4992C46E13E0093CAF8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDC5D4982C46E13E0093CAF8 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CD9EFA3E2C4834B5004A6EAB /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 		CDC5D4912C46E13D0093CAF8 /* CupcakeCorner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CupcakeCorner.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDC5D4942C46E13D0093CAF8 /* CupcakeCornerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CupcakeCornerApp.swift; sourceTree = "<group>"; };
 		CDC5D4962C46E13D0093CAF8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				CDC5D4942C46E13D0093CAF8 /* CupcakeCornerApp.swift */,
 				CDC5D4962C46E13D0093CAF8 /* ContentView.swift */,
 				CDC5D4A42C46F70B0093CAF8 /* AddressView.swift */,
+				CD9EFA3E2C4834B5004A6EAB /* CheckoutView.swift */,
 				CDC5D4A22C46F4D00093CAF8 /* Order.swift */,
 				CDC5D4982C46E13E0093CAF8 /* Assets.xcassets */,
 				CDC5D49A2C46E13E0093CAF8 /* Preview Content */,
@@ -145,6 +148,7 @@
 			files = (
 				CDC5D4A32C46F4D00093CAF8 /* Order.swift in Sources */,
 				CDC5D4A52C46F70B0093CAF8 /* AddressView.swift in Sources */,
+				CD9EFA3F2C4834B5004A6EAB /* CheckoutView.swift in Sources */,
 				CDC5D4972C46E13D0093CAF8 /* ContentView.swift in Sources */,
 				CDC5D4952C46E13D0093CAF8 /* CupcakeCornerApp.swift in Sources */,
 			);
